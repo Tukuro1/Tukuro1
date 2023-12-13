@@ -6,5 +6,10 @@ namespace Nguyen_Nhu_Tu
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
