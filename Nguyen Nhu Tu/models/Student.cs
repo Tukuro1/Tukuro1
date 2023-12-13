@@ -8,5 +8,6 @@ namespace Nguyen_Nhu_Tu.models
 {
     internal class Student
     {
+        public int MSSV { get; set; }
     }
 }
